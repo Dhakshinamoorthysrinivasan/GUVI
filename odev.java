@@ -22,7 +22,7 @@ class Ideone
           }
            if(a<0)
           {
-          	System.out.println("Invalid");
+          	System.out.println("invalid");
           }
 		
 	}
